@@ -1,2 +1,5 @@
-# Code-Refactor-1
-3/19 html css practice
+# Horiseon Code Refactor
+A website for Horiseon Refactor to be SEO optimized
+
+<img src="assets/images/Website Code-Refactor-1 Screenshot.png">
+Live site - https://haleyhilton.github.io/Code-Refactor-1/
